@@ -107,7 +107,8 @@ async function trackFinder(title, artist) {
       headers: {
         "Content-Type": "application/json",
         Authorization:
-          `Bearer BQDcm2KX6mIVJLgcHVtvYGX33j455-69KtaIUzstCRhdKF47uzVAQ74psriKLLETTWeYMmPHpcm6pe_40av3_bVp9nnd6q3iUylyy6hFbnZOeoXj0TWZbvleP5uSRADZ7kWMcqdhFNcYdRXXiSM3HKWbZ1V-qK5VO6kfn-_uU5lweZT2mQ`,
+          `Bearer BQDcm2KX6mIVJLgcHVtvYGX33j455-69KtaIUzstCRhdKF47uzVAQ74psriKLLETTWeYMmPHpcm6pe_40av3_bVp9nnd6q3iUylyy6hFbnZOeoXj0TWZbvleP5uSRADZ7kWMcqdhFNcYdRXXiSM3HKWbZ1V-qK5VO6kfn-_uU5lweZT2mQ
+          `,
         Accept: "application/json",
       },
     }
